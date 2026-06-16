@@ -1,0 +1,12 @@
+K-NHIB is released under a dual license:
+
+- Source code (the `code/` directory and all scripts): MIT License — see LICENSE-CODE.
+- Benchmark dataset and original documentation (`data/benchmark/`, `data/DATA_DICTIONARY.md`,
+  `prompts/`, `docs/`, `README.md`): Creative Commons Attribution 4.0 International
+  (CC BY 4.0) — see LICENSE-DATA.
+
+Note — the guideline documents in `data/guidelines/` are official public notifications
+(고시/공고) issued by the Health Insurance Review & Assessment Service (HIRA). Under Korean
+copyright law such official notifications are not subject to copyright. They are not authored
+by us and are therefore not part of the CC BY 4.0-licensed materials above; they are included
+for reproducibility. See LICENSE-DATA.

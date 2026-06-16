@@ -1,0 +1,15 @@
+# K-NHIB Benchmark - LLM Evaluation Pipeline
+
+# Data & metrics
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+scikit-learn>=1.3.0
+
+# LLM APIs (OpenAI/GPT is called via the HTTP API using httpx; no openai SDK needed)
+anthropic>=0.39.0
+google-genai>=1.0.0
+httpx>=0.28.0
+
+# PDF text extraction (text_md condition; see code/pdf_parser.py)
+pdfplumber>=0.10.0

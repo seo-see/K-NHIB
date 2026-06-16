@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite both the article and this archive."
+title: "K-NHIB: Korean National Health Insurance Benchmark"
+type: dataset
+authors:
+  - family-names: Seo
+    given-names: Junhyuk
+  - family-names: Kim
+    given-names: Taerim
+  - family-names: Kim
+    given-names: Ju-Hyun
+version: "1.0.0"
+date-released: "2026-06-15"
+doi: "10.5281/zenodo.20563360"
+repository-code: "https://github.com/seo-see/K-NHIB"
+license:
+  - MIT
+  - CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Assessing Eligibility for Anticancer Drug Health Insurance Reimbursement Using Large Language Models: Benchmark Development and Comparative Study"
+  authors:
+    - family-names: Seo
+      given-names: Junhyuk
+    - family-names: Kim
+      given-names: Taerim
+    - family-names: Kim
+      given-names: Ju-Hyun
+  journal: "Journal of Medical Internet Research"
+  year: 2026
+  volume: 28
+  doi: "10.2196/95877"

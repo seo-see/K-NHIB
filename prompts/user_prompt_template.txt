@@ -1,0 +1,5 @@
+Cancer type: {cancer_type}
+Regimen: {regimen}
+Clinical and administrative attributes: {attributes}
+
+Task: Determine whether this patient is eligible for reimbursement for the regimen above.

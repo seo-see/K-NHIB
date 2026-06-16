@@ -1,0 +1,26 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The K-NHIB benchmark dataset and original documentation authored by the K-NHIB authors —
+specifically `data/benchmark/`, `data/DATA_DICTIONARY.md`, `prompts/`, `docs/`, and
+`README.md` — are licensed under the Creative Commons Attribution 4.0 International License.
+
+  Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+  Full legal code:        https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to share and adapt these materials for any purpose, provided you give
+appropriate credit.
+
+Attribution:
+  Seo J, Kim T, Kim J-H. K-NHIB: Korean National Health Insurance Benchmark. 2026.
+  Archive doi:10.5281/zenodo.20563360 — Article doi:10.2196/95877
+
+---
+
+NOTE — third-party material in `data/guidelines/`
+
+The guideline documents in `data/guidelines/` (Cervical/Uterine/Ovarian excerpts and
+`HIRA_full_booklet_2026-02-01.pdf`) are official public notifications (고시/공고) issued by the Health
+Insurance Review & Assessment Service (HIRA). Under Korean copyright law (Copyright Act
+Art. 7) such official government notifications are not subject to copyright. They are not
+authored by us and are therefore outside the CC BY 4.0 grant above; they are included here
+for reproducibility. Source: HIRA.
