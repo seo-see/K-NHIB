@@ -1,5 +1,8 @@
 # K-NHIB: Korean National Health Insurance Benchmark
 
+[![Paper](https://img.shields.io/badge/Paper-JMIR-blue)](https://doi.org/10.2196/95877)
+[![Dataset](https://img.shields.io/badge/Dataset-Zenodo-blue)](https://doi.org/10.5281/zenodo.20563360)
+
 A benchmark for **anticancer drug reimbursement eligibility determination** under South
 Korea's National Health Insurance, with an LLM evaluation pipeline. It formalizes the
 condition-level adjudication logic clinicians and utilization-review nurses apply when
